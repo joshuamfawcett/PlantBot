@@ -1,7 +1,7 @@
 <h1 align="center">PlantBot</h1>
 <h4 align="center">Modular Community Plant Watering Bot</h4>
 <p align="center">
-  <a href="https://discord.gg/red">
+  <a href="https://discord.gg/fW4JDbP">
     <img src="https://discordapp.com/api/guilds/605473244212101136/widget.png?style=shield" alt="Discord Server">
   </a>
   <a href="https://www.python.org/downloads/">
